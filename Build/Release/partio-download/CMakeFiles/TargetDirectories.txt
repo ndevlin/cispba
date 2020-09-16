@@ -1,0 +1,3 @@
+/Users/Nathan/Desktop/PennHwork/563PhysBased/Week1/cispba/Build/Release/partio-download/CMakeFiles/rebuild_cache.dir
+/Users/Nathan/Desktop/PennHwork/563PhysBased/Week1/cispba/Build/Release/partio-download/CMakeFiles/edit_cache.dir
+/Users/Nathan/Desktop/PennHwork/563PhysBased/Week1/cispba/Build/Release/partio-download/CMakeFiles/partio-download.dir

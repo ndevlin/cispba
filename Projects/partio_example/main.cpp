@@ -34,6 +34,8 @@ int main(int argc, char* argv[])
 {
     std::string file="test.bgeo";
     writePartio<T,dim>(file);
+
+    std::cout << "File Written" << std::endl;
     
     return 0;
 }

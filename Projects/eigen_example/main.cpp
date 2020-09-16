@@ -14,6 +14,8 @@ int main(int argc, char* argv[])
     Eigen::Matrix<T,dim,1> x;
     x << (T).1, (T).2, (T).3;
     std::cout << x.transpose() << std::endl;
+
+    std::cout << "Successful!"  << std::endl;
     
     return 0;
 }
